@@ -1,0 +1,8 @@
+   Skills:
+   1.Git.
+   2.Postman.
+   3.Web testing.
+   4.JMeter.
+   5.SQL.
+   6.Android Studio.
+   7.Charles.
