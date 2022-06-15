@@ -1,1 +1,11 @@
 Bug Report
+ Defect_ID: 1.
+ Summary: The register button on the main page of the site does not work when clicked.
+ STR: 1.Go to the main page of the site.
+      2.Click the REGISTER button.
+  Project: Test.
+  Severety: critical.
+  Priority: high.
+  Status: assigned.
+  Author: Yuliya Ostapchuk.
+  Enviroments: OS Ubuntu 22.04 LTS,browser Google Chrome Version 102.0.5005.61 (Official Build) (64-bit).
