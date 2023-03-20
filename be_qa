@@ -1,0 +1,19 @@
+Summary: Invalid login error message text with empty fields
+
+Precondition:
+
+Open https://www.facebook.com/  
+
+Steps to reproduce:
+
+Go to the account login page.
+
+Press the button “Log in“.
+
+Actual result:
+
+A message appears “The email or mobile number you entered isn’t connected to an account. Find your account and log in“
+
+Expected result:
+
+A message appears ”Fill in the required fields to log in”
